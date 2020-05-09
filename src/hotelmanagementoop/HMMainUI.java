@@ -76,7 +76,7 @@ public class HMMainUI extends javax.swing.JFrame {
 
         jLabel1.setText("Booking");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\thekr\\Desktop\\icons8-room-64.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hotelmanagementoop/icons8-room-64_1.png"))); // NOI18N
         jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jLabel2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -96,7 +96,7 @@ public class HMMainUI extends javax.swing.JFrame {
         jLabel5.setText("Order Food");
 
         jLabel16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel16.setIcon(new javax.swing.ImageIcon("C:\\Users\\thekr\\Desktop\\icons8-home-page-64.png")); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hotelmanagementoop/icons8-home-page-64.png"))); // NOI18N
         jLabel16.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jLabel16.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -125,7 +125,7 @@ public class HMMainUI extends javax.swing.JFrame {
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addContainerGap(53, Short.MAX_VALUE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel16)
                 .addGap(18, 18, 18)
                 .addComponent(jLabel2)
@@ -147,7 +147,7 @@ public class HMMainUI extends javax.swing.JFrame {
         pnlCard5.setBackground(new java.awt.Color(0, 0, 0));
 
         jLabel17.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel17.setIcon(new javax.swing.ImageIcon("C:\\Users\\thekr\\Desktop\\icons8-home-page-64.png")); // NOI18N
+        jLabel17.setIcon(new javax.swing.ImageIcon("D:\\ProjectGen\\HotelManagementOOP\\src\\hotelmanagementoop\\icons8-home-page-64.png")); // NOI18N
         jLabel17.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
 
         jLabel18.setFont(new java.awt.Font("Calibri Light", 1, 48)); // NOI18N
@@ -194,7 +194,7 @@ public class HMMainUI extends javax.swing.JFrame {
         pnlCard1.setBackground(new java.awt.Color(0, 0, 0));
 
         jLabel8.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel8.setIcon(new javax.swing.ImageIcon("C:\\Users\\thekr\\Desktop\\icons8-room-64.png")); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hotelmanagementoop/icons8-room-64_1.png"))); // NOI18N
         jLabel8.setToolTipText("");
 
         jLabel6.setFont(new java.awt.Font("Calibri Light", 0, 36)); // NOI18N

@@ -44,7 +44,7 @@ public class HMLoginUI extends javax.swing.JFrame {
         jPanel2.setBackground(new java.awt.Color(51, 51, 51));
 
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\thekr\\Desktop\\icons8-hotel-80.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hotelmanagementoop/icons8-hotel-80.png"))); // NOI18N
         jLabel2.setToolTipText("");
 
         jLabel3.setFont(new java.awt.Font("Arial", 1, 48)); // NOI18N
